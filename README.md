@@ -95,7 +95,11 @@ for i in range(len(numbers)):
 
     time.sleep(0.01)
 ```
-
+7- And run the code using the cmd using
+```bash
+python main.py
+```
+or using the run button on the GUI
 
 ## License
 Made with 🖤 by Mohamed omar
